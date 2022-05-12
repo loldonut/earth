@@ -8,3 +8,9 @@ Earth "patch notes" 💀 (eh)
 
 - **Status:** Okay (maybe)
 - **Environment:** Eh (hell naah 💀)
+
+### Changes
+
+- Improve sky effect
+- [Partially] Fix unclipped walls
+- Improve sound effects
