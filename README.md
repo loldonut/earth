@@ -16,3 +16,4 @@ Earth "patch notes" 💀 (eh)
 - Improve sky effect
 - [Partially] Fix unclipped walls
 - Improve sound effects
+- Add sleep deprivation
