@@ -6,7 +6,7 @@ Earth "patch notes" 💀 (eh)
 
 - [Changes](#patch-notes)
 
-## Earth v23583.1
+## Earth v1.1.0
 
 - **Status:** Okay (maybe)
 - **Environment:** Eh (hell naah 💀)
@@ -17,3 +17,4 @@ Earth "patch notes" 💀 (eh)
 - [Partially] Fix unclipped walls
 - Improve sound effects
 - Add sleep deprivation
+- Follow SemVer versioning
