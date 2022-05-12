@@ -2,5 +2,5 @@
 
 ## Earth v23583.1
 
-- **Status:** Okay [x]
-- **Environment:** Eh []
+- **Status:** Okay (maybe)
+- **Environment:** Eh (hell nah)
